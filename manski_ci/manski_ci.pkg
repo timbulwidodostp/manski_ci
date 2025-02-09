@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'manski_ci': Manski type bounds (Manski 2003) to calculate confidence intervals around a treatment variable's regression coefficient in a (covariate-adjusted) regression Use manski_ci With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f manski_ci.ado
+f manski_ci.sthlp
