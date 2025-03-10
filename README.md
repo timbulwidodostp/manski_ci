@@ -1,6 +1,8 @@
 # manski_ci
 Manski type bounds (Manski 2003) to calculate confidence intervals around a treatment variable's regression coefficient in a (covariate-adjusted) regression Use manski_ci With STATA 18
 
+https://www.youtube.com/watch?v=iAbsycBLC2o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
